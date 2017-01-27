@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1484682561 source:/home/turupawn/Clases/Analisis/OrderedVectorSearch/main.cpp
+	"Test.h"
+	<iostream>
+
+1484678992 /home/turupawn/Clases/Analisis/OrderedVectorSearch/Test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1484682249 source:/home/turupawn/Clases/Analisis/OrderedVectorSearch/Test.cpp
+	"Test.h"
+
+1485478043 source:c:\users\jimmy ramos\documents\algoritmos\orderedvectorsearch\main.cpp
+	<vector>
+	<string>
+	<iostream>
+	<algorithm>
+	"Test.h"
+	<iostream>
+
+1484875446 c:\users\jimmy ramos\documents\algoritmos\orderedvectorsearch\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1485478911 source:c:\users\jimmy ramos\documents\algoritmos\orderedvectorsearch\test.cpp
+	"Test.h"
+
